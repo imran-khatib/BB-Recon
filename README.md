@@ -1,1 +1,3 @@
-# bb-recon
+
+chmod +x install.sh
+./install.sh
